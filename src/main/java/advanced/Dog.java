@@ -5,8 +5,8 @@ package advanced;
  */
 public class Dog {
 
-    public void Bark()
+    public String Bark()
     {
-        System.out.println("Bark! Bark!");
+        return "Bark! Bark!";
     }
 }

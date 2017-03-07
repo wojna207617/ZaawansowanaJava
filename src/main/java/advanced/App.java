@@ -10,6 +10,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         Dog dog = new Dog();
-        dog.Bark();
+        System.out.println(dog.Bark());
     }
 }
